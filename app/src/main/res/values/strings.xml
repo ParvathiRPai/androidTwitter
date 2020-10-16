@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter</string>
+    <string name="login_label">Log in</string>
+    <string name="intent_scheme">oauth</string>
+    <string name="intent_host">cprest</string>
+    <string name="compose_label">Compose</string>
+    <string name="compose_hint">Write a new tweet...</string>
+    <string name="welcome_to_twitter">Welcome to Twitter</string>
+    <string name="welcome_description">See what\'s happening in the world right now</string>
+    <string name="twitter_logo_content_description">Twitter Logo</string>
+    <string name="what_s_happening">What\'s happening?</string>
+    <string name="tweet_action">Tweet</string>
+    <string name="media">Media</string>
+    <string name="gif">GIF</string>
+    <string name="location">Location</string>
+    <string name="_140">140</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="dummy_screenname">\@TejenPatel</string>
+    <string name="dummy_name">Tejen Patel</string>
+    <string name="separatorSymbol">•</string>
+    <string name="sample_tweet_body"><![CDATA[Learn how @BAPS encourages civic participation & dialogue with elected officials and public servants in the US by following @BAPS_PubAffairs]]></string>
+
+</resources>
